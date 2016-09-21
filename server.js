@@ -52,7 +52,7 @@ function createTemplate(data){
 	`;
 	return htmlTemplate;
 	
-}
+};
 
 
 
